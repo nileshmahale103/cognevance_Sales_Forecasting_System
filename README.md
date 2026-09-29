@@ -12,8 +12,6 @@ This project was developed as part of the Data Science and Data Analytics Intern
 
 ## 2. Project Objectives
 
-The main objectives of this project are:
-
 * To analyze historical sales data and identify sales trends.
 * To clean and preprocess the dataset for accurate analysis.
 * To develop a machine learning model for sales forecasting.
